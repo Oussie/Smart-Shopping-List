@@ -1,0 +1,7 @@
+CREATE DATABASE Webscraper;
+
+CREATE TABLE Products (
+	name LONGTEXT,
+	price FLOAT,
+	amazon_url LONGTEXT
+);

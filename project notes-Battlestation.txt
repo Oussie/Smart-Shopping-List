@@ -1,0 +1,40 @@
+enter product link display name and price to user immediately ✅
+make a new product object with that data ✅
+make a class for products ✅
+make an array of product objects ✅
+display data to user in ui ✅
+insertion sort algorithm to sort by price asc & dsc ✅
+sql query to insert data into database ✅
+make data persistent ✅
+
+Issues ⚠️
+If user adds new product to list then exports the data to the database, the entire list will be added to the database again which already contains the previous state of the list before the new product was added so it duplicates everything
+SOLVED but solution possibly not scalable ✅
+Price cannot always be found / price returned with other characters (just only test on pages that work)❌
+IT DOESNT FUCKING WORK SOMETIMES FOR NO REASON !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!❌
+
+Todo
+check code makes sense to an examiner, comments are good, names of things make sense etc ✅
+getters and setters? ❌
+read spec make sure project meets requirements before doing paperwork eg all inputs are validated ✅
+fully check code is done. ✅
+
+
+start working on paper work systematically going through guidance for each stage and heriots booklets ➡️
+go up to testing and evaluation then get teacher to check making comments
+look at examples / "would i get all the marks for this bit here"
+
+scope and boundaries???
+tech constraints vs resources
+pseudocode aint really pseudocode
+ongoing testing vs final testing
+explain testing and evaluaton
+
+
+
+
+
+task tables missing dates at top and last two tables need a check
+(add name and candidate number etc)
+(ensure formatted correclty, spelling etc)
+(cover page)
